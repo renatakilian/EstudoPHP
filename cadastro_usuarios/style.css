@@ -25,7 +25,3 @@ input {
 	font-weight: 700;
 	text-transform: uppercase;
 }
-#button:active {
-	position: relative;
-	top: 5px;
-}
